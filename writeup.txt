@@ -1,0 +1,26 @@
+Samin Basir
+6/29/2022
+Umass Lowell
+GUI I
+
+The goal of this assignment was to implement additional experience
+working with the jQuery UI and to pull together much of what we’ve
+been doing throughout the semester. we implemented a bit of the
+game of Scrabble using drag-and-drop. The idea is to display one
+line of the Scrabble board (one line sample) to the user along with
+seven letter tiles on a tile rack. The user then drags tiles to the board
+to make a word, and you are to report his or her score, taking the letter
+values and bonus squares into consideration.
+
+Implemented features
+When starting the game the playeris met with random order of tiles they can select from
+The player can drag the tiles from the rack into the boxes highlighted in the pink below 
+to form a word of their choosing. The box were the letters are dragged and dropped then 
+calculates the points according to the value they hold. the single line is also
+made so that it recognizes the letters plces and reiterate the spelled word and the 
+score associated with it. The game allows for the player to start a new game when they
+hit the new game button. Once the player picks a word,they have the option to submit the word,
+and to record  their points. Once thats done new letters are placed  on the rack. 
+while that is happening the game also accounts for the numbers of tiles remaining.
+while I have these features working my dictonary word dectection is not working the way 
+it is supposed to.
